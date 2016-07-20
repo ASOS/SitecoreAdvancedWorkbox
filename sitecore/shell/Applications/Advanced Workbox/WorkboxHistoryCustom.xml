@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<control xmlns:def="Definition" xmlns="http://schemas.sitecore.net/Visual-Studio-Intellisense">
+  <WorkboxHistoryCustom def:inherits="SitecoreAdvancedWorkbox.Shell.Applications.WorkboxHistoryXmlControl,SitecoreAdvancedWorkbox">
+    <PopupChrome Width="350px" Height="350px">
+      <Scrollbox Width="350px" Height="320px" Border="none" Style="overflow:auto">
+        <Border ID="History"/>
+      </Scrollbox>
+    </PopupChrome>
+  </WorkboxHistoryCustom>
+</control>
